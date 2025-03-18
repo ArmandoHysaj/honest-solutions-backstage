@@ -1,25 +1,21 @@
-# Project information
-site_name: "mkdocs-dta"
+site_name: mkdocs-dta
 site_description: |
   The official documentation DTA Application.
-# Repository
-repo_name: "DTA Repo"
-repo_url: "https://github.com/HonestSolutions/DTA"
-
-# Theme
+repo_name: DTA Repo
+repo_url: https://github.com/HonestSolutions/DTA
 theme:
-  name: "material"
-  language: "en"
+  name: material
+  language: en
   palette:
-    primary: "blue"
-    accent: "blue"
+    primary: blue
+    accent: blue
   font:
-    text: "Circular"
-    code: "Inconsolata"
-
+    text: Circular
+    code: Inconsolata
 extra:
-  repo_icon: "github"
-# Navigation
+  repo_icon: github
 nav:
   - Getting Started: index.md
   - GitHub Source Code: https://github.com/HonestSolutions/DTA
+plugins:
+  - techdocs-core
