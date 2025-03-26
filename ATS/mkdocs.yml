@@ -1,0 +1,21 @@
+site_name: mkdocs-ats
+site_description: |
+  The official documentation ATS Application.
+repo_name: ATS Repo
+repo_url: https://github.com/HonestSolutions/DTA
+theme:
+  name: material
+  language: en
+  palette:
+    primary: blue
+    accent: blue
+  font:
+    text: Circular
+    code: Inconsolata
+extra:
+  repo_icon: github
+nav:
+  - Getting Started: index.md
+  - GitHub Source Code: https://github.com/HonestSolutions/ATS
+plugins:
+  - techdocs-core

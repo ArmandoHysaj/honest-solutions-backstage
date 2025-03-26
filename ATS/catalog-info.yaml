@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ATS
+  description: ATS description
+  annotations:
+    github.com/project-slug: HonestSolutions/ATS
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: ATS-team
