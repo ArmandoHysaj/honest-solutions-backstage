@@ -1,33 +1,44 @@
-Welcome to DTA Web Application Documentation
-Welcome to the documentation for DTA web application! This guide is designed to help you get the most out of our application, whether you're a new user, a developer, or just interested in learning more.
+# Welcome to DTA – Dental Tourism Albania 🦷🇦🇱
 
-Getting Started
+**Premium dental care in beautiful Albania — at a fraction of the cost.**
 
-Installation and Setup
-Learn how to get the application up and running. This section includes steps for installation, initial configuration, and any prerequisites needed.
+DTA (Dental Tourism Albania) connects international patients with top-rated dental clinics across Albania. Whether you're seeking a simple cleaning or a full smile makeover, our network of trusted professionals is ready to provide high-quality treatments in a welcoming and affordable environment.
 
-User Guide
-Find detailed instructions on how to navigate and use the application. This includes:
+## 🌍 Why Choose Dental Tourism in Albania?
 
-Basic Features: Overview of key functionalities and how to use them.
-Advanced Features: In-depth look at advanced tools and settings.
-Troubleshooting: Common issues and how to resolve them.
-Developer Guide
-For developers interested in contributing or customizing the application:
+- **Affordable Prices** – Save up to 70% compared to clinics in Western Europe or the U.S.
+- **High Standards** – Modern clinics, experienced dentists, and EU-compliant procedures.
+- **Beautiful Destination** – Combine your dental treatment with a vacation on the Albanian Riviera or in the historic cities of Tirana, Berat, or Gjirokastër.
+- **Personalized Service** – Assistance with travel, accommodation, and treatment planning.
 
-Codebase Overview: A look at the structure and components of the application.
-API Documentation: Details on available APIs and how to integrate with them.
-Contribution Guidelines: How to contribute to the development of the application.
-Support
-Need help? Check out our support section for:
+## 🦷 Services Offered
 
-FAQs: Answers to common questions.
-Contact Information: How to get in touch with our support team.
-Community: Join our forums or discussion groups to connect with other users.
-Resources
-Release Notes: Latest updates and version history.
-Best Practices: Tips and recommendations for getting the most out of the application.
-External Tools: Useful tools and resources that complement our application.
-We hope you find this documentation helpful. If you have any feedback or suggestions, please let us know!
+- Dental Implants
+- Smile Design & Aesthetics
+- Veneers & Crowns
+- Teeth Whitening
+- Oral Surgery
+- Orthodontics (Braces & Aligners)
+- General Dentistry
 
-Happy exploring!
+## ✈️ How It Works
+
+1. **Submit Inquiry** – Tell us about your needs and preferences.
+2. **Get Matched** – We'll connect you with top dental clinics in Albania.
+3. **Plan Your Trip** – Book your treatment and travel with our assistance.
+4. **Smile Brighter** – Receive world-class care while enjoying your stay.
+
+## 💬 What Our Patients Say
+
+> “I never thought I'd get such amazing dental work and enjoy a holiday at the same time. Albania exceeded my expectations.”  
+> – Laura, UK
+
+> “The dentists were so professional, and I saved thousands. Highly recommend DTA!”  
+> – Marc, Germany
+
+---
+
+**DTA – Dental Tourism Albania**  
+_Your smile deserves the best — without breaking the bank._
+
+**Contact us today** to start your dental travel journey!
