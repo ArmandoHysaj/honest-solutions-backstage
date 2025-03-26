@@ -81,7 +81,9 @@ catalog:
     # Local example data, file locations are relative to the backend process, typically `packages/backend`
     - type: file
       target: ../../examples/entities.yaml
-
+      # Local example template
+    - type: file
+      target: ./data/catalog/people.yaml
     # Local example template
     - type: file
       target: ../../examples/template/template.yaml

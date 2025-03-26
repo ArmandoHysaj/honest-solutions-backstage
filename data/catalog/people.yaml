@@ -1,0 +1,172 @@
+# Team 1: Marketplace Team
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: marketplace-team
+  description: Team responsible for the Marketplace project
+spec:
+  type: team
+  profile:
+    displayName: Marketplace Team
+  members:
+    - klea
+    - kevin
+    - geralba
+    - megi
+
+---
+# Team 2: ATS Team
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: ats-team
+  description: Team responsible for the ATS project
+spec:
+  type: team
+  profile:
+    displayName: ATS Team
+  members:
+    - marjo
+    - armando
+    - redian
+    - irena
+
+---
+# Team 3: DTA Team
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dta-team
+  description: Team responsible for the DTA (Dental Tourism Albania) project
+spec:
+  type: team
+  profile:
+    displayName: DTA Team
+  members:
+    - kristina
+    - albi
+    - denis
+    - hansi
+
+# Users for Marketplace
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: klea
+spec:
+  profile:
+    displayName: Klea
+  memberOf: [marketplace-team]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kevin
+spec:
+  profile:
+    displayName: Kevin
+  memberOf: [marketplace-team]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: geralba
+spec:
+  profile:
+    displayName: Geralba
+  memberOf: [marketplace-team]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: megi
+spec:
+  profile:
+    displayName: Megi
+  memberOf: [marketplace-team]
+
+# Users for ATS
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: marjo
+spec:
+  profile:
+    displayName: Marjo
+  memberOf: [ats-team]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: armando
+spec:
+  profile:
+    displayName: Armando
+  memberOf: [ats-team]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: redian
+spec:
+  profile:
+    displayName: Redian
+  memberOf: [ats-team]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: irena
+spec:
+  profile:
+    displayName: Irena
+  memberOf: [ats-team]
+
+# Users for DTA
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kristina
+spec:
+  profile:
+    displayName: Kristina
+  memberOf: [dta-team]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: albi
+spec:
+  profile:
+    displayName: Albi
+  memberOf: [dta-team]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: denis
+spec:
+  profile:
+    displayName: Denis
+  memberOf: [dta-team]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: hansi
+spec:
+  profile:
+    displayName: Hansi
+  memberOf: [dta-team]
