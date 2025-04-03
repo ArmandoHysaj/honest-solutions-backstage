@@ -78,19 +78,26 @@ catalog:
   rules:
     - allow: [Component, System, API, Resource, Location]
   locations:
-    # Local example data, file locations are relative to the backend process, typically `packages/backend`
+    - type: url
+      target: https://github.com/ArmandoHysaj/honest-solutions-backstage/blob/master/DTA-Backstage/catalog-info.yaml
+
+    - type: url
+      target: https://github.com/ArmandoHysaj/honest-solutions-backstage/blob/master/ATS/catalog-info.yaml
+
+    - type: url
+      target: https://github.com/ArmandoHysaj/honest-solutions-backstage/blob/master/Marketplace-Backstage/catalog-info.yml
+
     - type: file
       target: ../../examples/entities.yaml
-      # Local example template
+
     - type: file
       target: ./data/catalog/people.yaml
-    # Local example template
+
     - type: file
       target: ../../examples/template/template.yaml
       rules:
         - allow: [Template]
 
-    # Local example organizational data
     - type: file
       target: ../../examples/org.yaml
       rules:
