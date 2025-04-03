@@ -91,15 +91,12 @@ catalog:
       target: ../../examples/entities.yaml
 
     - type: file
-      target: ./data/catalog/people.yaml
-
-    - type: file
       target: ../../examples/template/template.yaml
       rules:
         - allow: [Template]
 
     - type: file
-      target: ../../examples/org.yaml
+      target: ../../data/catalog/people.yaml
       rules:
         - allow: [User, Group]
 
